@@ -1,4 +1,3 @@
-[OPEN]
 _obf = ('pymeoV2.1')[(lambda : 0)()]
 _author = ('ngocuyencoder','https://www.facebook.com/datishnu1907','https://t.me/huynhngocuyenn')
 _pymeomeo_version = ('PREMIUM','User : xaibone(discord)','main')
